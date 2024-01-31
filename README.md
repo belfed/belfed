@@ -27,6 +27,7 @@ const me = {
   </summary>
   <br />
   <span>Daily reports dashboard is quite clunky, what about a simple and easy application that lets you track time spent on tasks and automatically send them to the company dashboard?</span>
+  <br />
   <em>(React, ReactRouter, Styled-Components)</em>
 </details>
 
@@ -36,6 +37,7 @@ const me = {
   </summary>
   <br />
   <span>Straight-forward application to let team members work together while keeping track of everyone's tasks and manage them through a pipeline of statuses.</span>
+  <br />
   <em>(Node.js, Apollo Server, GraphQL, PostgreSQL)</em>
 </details>
 <!--
