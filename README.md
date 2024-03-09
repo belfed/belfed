@@ -15,8 +15,7 @@ const me = {
   languages: ["IT", "EN"],
   code: ["JavaScript", "C#", "ABAP", "SAP CAP", "HTML", "CSS"],
   tools: ["Node.js", "Express", "React", "Redux", "Apollo Server", "Apollo Client", "Prisma", "GraphQL"],
-  databases: ["PostgreSQL", "SQL Server", "Firestore", "MongoDB"], 
-  tools: ["Git", "VS Code", "Visual Studio", "Notion", "Docker"]
+  databases: ["PostgreSQL", "SQL Server", "Firestore", "MongoDB", "Git", "VS Code", "Visual Studio", "Notion", "Docker"]
 }
 ```
 
