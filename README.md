@@ -13,7 +13,7 @@
 const me = {
   pronouns: "he" | "him",
   languages: ["IT", "EN"],
-  code: ["JavaScript", "C#", "ABAP", "SAP CAP", "HTML", "CSS"],
+  code: ["JavaScript", "TypeScript", "C#", "ABAP", "SAP CAP", "HTML", "CSS"],
   tools: ["Node.js", "Express", "React", "Redux", "Apollo Server", "Apollo Client", "Prisma", "GraphQL", "Git", "VS Code", "Visual Studio", "Notion", "Docker"],
   databases: ["PostgreSQL", "SQL Server", "Firestore", "MongoDB"]
 }
