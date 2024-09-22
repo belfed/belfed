@@ -22,22 +22,12 @@ const me = {
 ### 🛠️Currently working on
 <details>
   <summary>
-    <b>reg-reports</b> (workplace related project)
+    <b>DevBoard</b> (workplace related project)
   </summary>
   <br />
-  <span>Daily reports dashboard is quite clunky, what about a simple and easy application that lets you track time spent on tasks and automatically send them to the company dashboard?</span>
+  <span>Board application that lets developers in my department post quick info, know-how pills, good-to-know stuff related to our workplace.</span>
   <br />
-  <em>(React, ReactRouter, Styled-Components)</em>
-</details>
-
-<details>
-  <summary>
-    <b>Piper API</b>
-  </summary>
-  <br />
-  <span>Straight-forward application to let team members work together while keeping track of everyone's tasks and manage them through a pipeline of statuses.</span>
-  <br />
-  <em>(Node.js, Apollo Server, GraphQL, PostgreSQL)</em>
+  <em>(Next.js, Prisma, PostgreSQL)</em>
 </details>
 <!--
 **belfed/belfed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
